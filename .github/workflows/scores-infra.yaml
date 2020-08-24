@@ -2,7 +2,7 @@ on: [workflow_dispatch]
  
 name: Scores Infrastructure
 env:
-  APPLICATION_NAME: horus-scores 
+  APPLICATION_NAME: mbhorus-scores 
   LOCATION: uksouth  
   SUPPRESS_CONFIRM: True
   SQL_ALLOW_MY_IP: 92.238.162.45
